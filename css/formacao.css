@@ -1,5 +1,7 @@
 .formacao {
-  background: #464646;
+  background-image: linear-gradient(
+    rgba(55, 190, 60, 0.43) rgba(39, 97, 41, 0.386)
+  );
   color: #ffffff;
 }
 
@@ -34,11 +36,11 @@
   line-height: 1.33;
   max-width: 40ch;
   margin-bottom: 60px;
-  color: #a3a3a3;
+  color: #4e3939;
 }
 
 .formacao-texto strong {
-  color: #ffffff;
+  color: #1d1414;
 }
 
 .faculdade-lista {
